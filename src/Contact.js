@@ -66,6 +66,7 @@ const Contact = () => {
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.0536728005522!2d80.17854891474092!3d13.032254090816068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5266d11f9ca625%3A0xf77d1733be7b5b74!2sSRM%20Institute%20Of%20Science%20And%20Technology!5e0!3m2!1sen!2sin!4v1676118979652!5m2!1sen!2sin" 
                         width="600" 
                         height="450"
+                        title='a'
                         style={{border:0}}
                         allowfullscreen="" 
                         loading="lazy"
